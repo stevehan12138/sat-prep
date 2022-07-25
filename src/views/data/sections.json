@@ -1,0 +1,34 @@
+{
+    "satR": {
+        "time": 65,
+        "questions": 52
+    },
+    "satL": {
+        "time": 35,
+        "questions": 44
+    },
+    "satMw": {
+        "time": 55,
+        "questions": 38
+    }, 
+    "satMwo": {
+        "time": 25,
+        "questions": 20
+    },
+    "actE": {
+        "time": 45,
+        "questions": 75
+    }, 
+    "actM": {
+        "time": 60,
+        "questions": 60
+    }, 
+    "actR": {
+        "time": 35,
+        "questions": 40
+    }, 
+    "actS": {
+        "time": 35,
+        "questions": 40
+    } 
+}
